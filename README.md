@@ -1,6 +1,7 @@
 # Task 1
 
 Contact Form Task
+
 This project implements a simple, responsive contact form with HTML, CSS, and JavaScript.
 
 1. Clone this repository:
@@ -13,6 +14,7 @@ This project implements a simple, responsive contact form with HTML, CSS, and Ja
 # Task 2
 
 Course API
+
 This project is a simple RESTful API for managing educational resources, specifically courses. It provides basic CRUD (Create, Read, Update, Delete) operations for course management.
 
 ## Installation

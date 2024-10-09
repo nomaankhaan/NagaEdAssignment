@@ -19,7 +19,7 @@ This project is a simple RESTful API for managing educational resources, specifi
 1. Clone this repository:
    ```
    git clone https://github.com/nomaankhaan/NagaEdAssignment.git
-   cd Task 1
+   cd Task 2
    ```
 
 2. Install the required packages:

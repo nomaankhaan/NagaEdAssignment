@@ -20,17 +20,11 @@ This project is a simple RESTful API for managing educational resources, specifi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/educational-resources-api.git
-   cd 
+   git clone https://github.com/nomaankhaan/NagaEdAssignment.git
+   cd Task 1
    ```
 
-2. Create a virtual environment (optional but recommended):
-   ```
-   python -m venv venv
-   venv\Scripts\activate`
-   ```
-
-3. Install the required packages:
+2. Install the required packages:
    ```
    pip install -r requirements.txt
    ```

@@ -1,4 +1,4 @@
-# Educational Resources API
+# NagaEd API
 
 This project is a simple RESTful API for managing educational resources, specifically courses. It provides basic CRUD (Create, Read, Update, Delete) operations for course management.
 

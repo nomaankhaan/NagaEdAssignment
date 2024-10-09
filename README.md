@@ -1,20 +1,18 @@
-# NagaEd API
+# Task 1
+
+Contact Form Task
+This project implements a simple, responsive contact form with HTML, CSS, and JavaScript.
+
+1. Clone this repository:
+   ```
+   git clone https://github.com/nomaankhaan/NagaEdAssignment.git
+   cd Task 1
+   ```
+2. Open index.html and click on go live to open the contact form page
+
+# Task 2
 
 This project is a simple RESTful API for managing educational resources, specifically courses. It provides basic CRUD (Create, Read, Update, Delete) operations for course management.
-
-## Features
-
-- List all courses
-- Add a new course
-- Retrieve a specific course by ID
-- Update an existing course
-- Delete a course
-
-## Technology Stack
-
-- Python 3.7+
-- Flask
-- Flask-RESTful
 
 ## Installation
 
@@ -94,18 +92,3 @@ This project is a simple RESTful API for managing educational resources, specifi
    - Enter the URL: `http://localhost:5000/courses<paste-course-id-here>`
    - Click "Send"
    - You should receive a 200 OK response with a success message
-
-9. **Verify deletion**:
-   - Perform another GET request for all courses
-   - The deleted course should no longer be in the list
-
-By following these steps, you can test all CRUD operations of the Educational Resources API using Postman. This process allows you to interact with the API and verify its functionality without writing any code.
-
-## Data Model
-
-Each course has the following properties:
-
-- `id`: Unique identifier (UUID)
-- `title`: Title of the course
-- `description`: Brief description of the course content
-- `duration`: Length of the course
